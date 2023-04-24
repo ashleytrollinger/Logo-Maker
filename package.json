@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "inquirer-maxlength-input-prompt": "^1.0.2"
+  }
+}
